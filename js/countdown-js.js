@@ -1,6 +1,6 @@
 // set the date we're counting down to
 
-var target_date = new Date('February, 24, 2021').getTime();
+var target_date = new Date('February, 23, 2021').getTime();
 
 
 
