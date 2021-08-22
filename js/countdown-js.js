@@ -26,7 +26,7 @@ setInterval(function() {
 
     var current_date = new Date().getTime();
 
-    var seconds_left = (target_date - current_date) / 1000;
+    var seconds_left = (current_date - target_date) / 1000;
 
 
 
